@@ -6,7 +6,6 @@ This project is only created to refer to the algorithms featured in ISC '26 Comp
 
 ---
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=whit" alt="Java" >
----
 
 ### Roadmap 
 - [x] Class 11 Programs
